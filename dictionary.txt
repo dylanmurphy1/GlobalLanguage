@@ -1,0 +1,18 @@
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+INSTRUCTIONS:
+_ = 0
+# = 1
+@ = 10
+^ = 100
+~ = assignment
+$ = print
+    - = separates words
+    , = separates letters
+??? = if
+?? = elif
+? = else
+∞ = while
+& = for
+! = variable in expression
+: = translation method
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
